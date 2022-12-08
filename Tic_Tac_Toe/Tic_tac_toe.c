@@ -179,9 +179,9 @@ void printWinner(char winner)
    }
    else if(winner == COMPUTER)
    {
-      printf("YOU LOSE!");
+      printf("YOU LOSt");
    }
    else{
-      printf("IT'S A TIE!");
+      printf("IT'S A TIE");
    }
 }
